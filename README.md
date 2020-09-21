@@ -1,2 +1,3 @@
 # Human-face-detection
-uses webcam
+Uses your webcam to detect your beautiful face
+
